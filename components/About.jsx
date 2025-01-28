@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Aboutimage from 'assets/img/team/divyesh_profile1.jpg';
 const About = () => {
   return (
     <section id="about" className="about">
@@ -20,7 +20,7 @@ const About = () => {
             <a href="https://www.arraysoft.in/" className="btn-learn-more">Learn More</a>
           </div>
           <div className="col-lg-6 pt-4 pt-lg-0">
-            <img src="assets/img/team/divyesh_profile1.jpg" alt="" style={{ height: '350px', width: '500px', float: 'right', borderRadius: '2%' }} />
+            <img src={Aboutimage} alt="" style={{ height: '350px', width: '500px', float: 'right', borderRadius: '2%' }} />
           </div>
         </div>
       </div>
