@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
   return (
-    <header id="header" className="fixed-top" style={{ backgroundColor: '#6150A9', opacity: 0.9 }}>
+    <header id="header" className="fixed-top" style={{ backgroundColor: '#281770', opacity: 0.9 }}>
       <div className="container d-flex align-items-center">
         <h1 className="logo me-auto"><a href="index.html">Divyesh Rupala</a></h1>
         <nav id="navbar" className="navbar">
