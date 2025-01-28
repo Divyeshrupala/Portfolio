@@ -1,12 +1,12 @@
 import React from 'react';
-
+import Teamimage from '../assets/img/team/arrsoft.jpg';
 const Skills = () => {
   return (
     <section id="skills" className="skills">
       <div className="container" data-aos="fade-up">
         <div className="row">
           <div className="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/team/arrsoft.jpg" style={{ height: '400px', width: '600px' }} className="img-fluid" alt="" />
+            <img src={Teamimage} style={{ height: '400px', width: '600px' }} className="img-fluid" alt="" />
           </div>
           <div className="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
             <h3>My knowledge about below languages</h3>

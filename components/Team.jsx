@@ -22,9 +22,9 @@ function Team() {
                 <p>I am a passionate and detail-oriented computer science student with a strong interest in software development.</p>
                 <div className="social">
                   <a href="https://twitter.com/your_twitter_profile" style={{ textDecoration: 'none' }}><i className="fab fa-twitter"></i></a>
-                  <a href="https://www.facebook.com/your_facebook_profile" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
-                  <a href="https://www.instagram.com/your_instagram_profile" style={{ textDecoration: 'none' }}><i className="fab fa-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/your_linkedin_profile" style={{ textDecoration: 'none' }}><i className="fab fa-linkedin"></i></a>
+                  <a href="https://www.facebook.com/divyesh.rupala.1" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
+                  <a href="https://www.instagram.com/divyesh_rupala/?hl=en" style={{ textDecoration: 'none' }}><i className="fab fa-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/divyeshrupala157/" style={{ textDecoration: 'none' }}><i className="fab fa-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -40,9 +40,9 @@ function Team() {
                 <p>I am a dedicated and enthusiastic computer science student with a solid foundation in programming and problem-solving.</p>
                 <div className="social">
                   <a href="https://twitter.com/your_twitter_profile" style={{ textDecoration: 'none' }}><i className="fab fa-twitter"></i></a>
-                  <a href="https://www.facebook.com/your_facebook_profile" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
-                  <a href="https://www.instagram.com/your_instagram_profile" style={{ textDecoration: 'none' }}><i className="fab fa-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/your_linkedin_profile" style={{ textDecoration: 'none' }}><i className="fab fa-linkedin"></i></a>
+                  <a href="https://www.facebook.com/divyesh.rupala.1" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
+                  <a href="https://www.instagram.com/divyesh_rupala/?hl=en" style={{ textDecoration: 'none' }}><i className="fab fa-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/divyeshrupala157/" style={{ textDecoration: 'none' }}><i className="fab fa-linkedin"></i></a>
                 </div>
               </div>
             </div>

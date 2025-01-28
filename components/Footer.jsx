@@ -41,9 +41,9 @@ function Footer() {
               {/* <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p> */}
               <div className="social-links mt-3">
                 <a href="https://twitter.com/your_twitter_profile" style={{ textDecoration: 'none' }}><i className="fab fa-twitter"></i></a>
-                <a href="https://www.facebook.com/your_facebook_profile" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
-                <a href="https://www.instagram.com/your_instagram_profile" style={{ textDecoration: 'none' }}><i className="fab fa-instagram"></i></a>
-                <a href="https://www.linkedin.com/in/your_linkedin_profile" style={{ textDecoration: 'none' }}><i className="fab fa-linkedin"></i></a>
+                <a href="https://www.facebook.com/divyesh.rupala.1" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
+                <a href="https://www.instagram.com/divyesh_rupala/?hl=en" style={{ textDecoration: 'none' }}><i className="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/divyeshrupala157/" style={{ textDecoration: 'none' }}><i className="fab fa-linkedin"></i></a>
               </div>
             </div>
           </div>
