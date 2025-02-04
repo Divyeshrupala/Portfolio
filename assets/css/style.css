@@ -978,7 +978,7 @@ section {
 
 .team .member .member-info {
   padding-left: 30px;
-  height: 200px;
+  height: auto;
 }
 
 .team .member h4 {
