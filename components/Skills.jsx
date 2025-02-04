@@ -42,9 +42,15 @@ const Skills = () => {
                 </div>
               </div>
               <div className="progress">
-                <span className="skill">Full Stack Development<i className="val">70%</i></span>
+                <span className="skill">Frontend<i className="val">80%</i></span>
                 <div className="progress-bar-wrap">
-                  <div className="progress-bar" style={{ width: '70%' }} role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" style={{ width: '80%' }} role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill">Backend<i className="val">60%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" style={{ width: '60%' }} role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div className="progress">
