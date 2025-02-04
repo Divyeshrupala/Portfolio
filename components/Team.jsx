@@ -37,7 +37,8 @@ function Team() {
               <div className="member-info">
                 <h4>Divyesh Rupala</h4>
                 <span>2<sup>nd</sup> Year Computer Engineering Student</span>
-                <p>I am a dedicated and enthusiastic computer science student with a solid foundation in programming and problem-solving.</p>
+                <p>I am a dedicated and enthusiastic computer engineering student with a solid foundation in programming and problem-solving.</p>
+                <p><strong>Skills :-</strong> C&C++, HTML, CSS, JavaScript, ReactJS, NodeJS, Java, Python and it's Libraries </p>
                 <div className="social">
                   <a href="https://twitter.com/your_twitter_profile" style={{ textDecoration: 'none' }}><i className="fab fa-twitter"></i></a>
                   <a href="https://www.facebook.com/divyesh.rupala.1" style={{ textDecoration: 'none' }}><i className="fab fa-facebook"></i></a>
