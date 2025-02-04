@@ -11,7 +11,7 @@ function Team() {
           <p>Check our Team</p>
         </div>
         <div className="row">
-          <div className="col-lg-6">
+          {/* <div className="col-lg-6">
             <div className="member d-flex align-items-start">
               <div className="pic">
                 <img src={divyeshImage} className="img-fluid" alt="Divyesh Rupala" />
@@ -28,7 +28,7 @@ function Team() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="col-lg-6 mt-4 mt-lg-0">
             <div className="member d-flex align-items-start">
               <div className="pic">
@@ -36,7 +36,7 @@ function Team() {
               </div>
               <div className="member-info">
                 <h4>Divyesh Rupala</h4>
-                <span>Product Manager</span>
+                <span>2<sup>nd</sup> Year Computer Engineering Student</span>
                 <p>I am a dedicated and enthusiastic computer science student with a solid foundation in programming and problem-solving.</p>
                 <div className="social">
                   <a href="https://twitter.com/your_twitter_profile" style={{ textDecoration: 'none' }}><i className="fab fa-twitter"></i></a>

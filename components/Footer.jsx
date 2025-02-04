@@ -9,7 +9,7 @@ function Footer() {
             <div className="col-lg-3 col-md-6 footer-contact">
               <h3>Divyesh Rupala</h3>
               <p>
-                Rohitvas, Rupal <br />
+                Rupal <br />
                 Gandhinagar, Gujarat<br />
                 India <br /><br />
                 <strong>Phone:</strong> +91 6354218069<br />

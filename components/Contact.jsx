@@ -13,7 +13,7 @@ function Contact() {
               <div className="address">
                 <i className="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Rohitvas, Rupal, Gandhinagar</p>
+                <p>Rupal, Gandhinagar</p>
               </div>
               <div className="email">
                 <i className="bi bi-envelope"></i>
